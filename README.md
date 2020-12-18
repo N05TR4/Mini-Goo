@@ -1,2 +1,2 @@
 # Mini-Goo
-Mini buscador
+Es un mini buscador que usa las librerias de google search
